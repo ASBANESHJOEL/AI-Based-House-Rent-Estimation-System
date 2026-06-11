@@ -1,14 +1,3 @@
-"""
-AI-Based House Rent Estimation System
-
-Author: Asbanesh Joel D
-
-Description:
-This project predicts house rental prices using
-Random Forest Regression based on property
-features such as locality, BHK, square footage,
-and property condition.
-"""
 
 # =========================
 # Import Libraries
@@ -133,9 +122,3 @@ print("=" * 30)
 print(f"R² Score : {r2:.4f}")
 print(f"MAE      : ₹{mae:,.2f}")
 print(f"RMSE     : ₹{rmse:,.2f}")
-
-# =========================
-# Project Completed
-# =========================
-
-print("\nHouse Rent Prediction Model Trained Successfully!")
