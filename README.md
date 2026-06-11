@@ -1,2 +1,37 @@
-# AI-Based-House-Rent-Estimation-System
-Machine Learning project for predicting house rental prices using Random Forest Regression.
+# AI-Based House Rent Estimation System
+
+## Overview
+
+This project predicts house rental prices using Machine Learning based on property features such as locality, BHK, square footage, and condition.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Google Colab
+
+## Machine Learning Model
+
+* Random Forest Regressor
+
+## Dataset
+
+* 1031 rental property records
+* 43 unique localities
+
+## Features Used
+
+* Locality
+* BHK
+* Square Feet
+* Condition
+
+## Results
+
+* R² Score: 0.79
+
+## Author
+
+Asbanesh Joel D
