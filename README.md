@@ -35,3 +35,11 @@ This project predicts house rental prices using Machine Learning based on proper
 ## Author
 
 Asbanesh Joel D
+
+## Dataset
+
+A custom House Rent Prediction dataset published on Kaggle.
+
+🔗 Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/asbaneshjoel/house-rent-prediction-dataset)
+
+Features: Locality, BHK, SQ. FT, Condition, and Rent.
