@@ -43,3 +43,7 @@ A custom House Rent Prediction dataset published on Kaggle.
 🔗 Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/asbaneshjoel/house-rent-prediction-dataset)
 
 Features: Locality, BHK, SQ. FT, Condition, and Rent.
+
+## Application Preview
+
+![Application Screenshot](screenshot.png)
