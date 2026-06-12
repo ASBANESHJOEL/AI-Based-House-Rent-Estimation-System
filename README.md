@@ -26,6 +26,12 @@ A Machine Learning web application that predicts monthly house rent based on:
 - Trained Random Forest Model
 - User-Friendly Inputs
 
+## Live Demo
+
+🚀 Try the application online:
+
+https://ai-based-house-rent-estimation-system.streamlit.app
+
 ## Author
 
 Asbanesh Joel D
